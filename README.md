@@ -15,9 +15,9 @@ This project explores which factors — gender, passenger class, age, and fare �
 ## Visualizations
 | | |
 |---|---|
-| ![Survival count](images/01_survival_count.png) | ![Survival by gender](images/02_survival_by_gender.png) |
-| ![Survival by class](images/03_survival_by_class.png) | ![Age distribution](images/04_age_distribution.png) |
-| ![Correlation heatmap](images/06_correlation_heatmap.png) | ![Feature importance](images/08_feature_importance.png) |
+| ![Survival count](survival_count.png) | ![Survival by gender](survival_by_gender.png) |
+| ![Survival by class](survival_by_class.png) | ![Age distribution](age_distribution.png) |
+| ![Correlation heatmap](correlation_heatmap.png) | ![Feature importance](feature_importance.png) |
 
 ## Tech Stack
 - **Python** — pandas, numpy for data handling
